@@ -1,1 +1,2 @@
-# APerson-sPathBetweenHomes
+# A Person's Path Between Homes
+![](Rplot1.jpeg)
